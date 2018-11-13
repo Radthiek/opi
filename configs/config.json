@@ -1,0 +1,18 @@
+{
+  "ownerID": "{{428285710588444694}}",
+  "apiEndpoint": "{{apiEndpoint}}",
+  "mainGuildID": "{{mainGuildID}}",
+  "logChannel": "{{logChannel}}",
+  "levelSystem": {{levelSystem}},
+  "tokens": {
+    "discord": "{{NTA1NDQ0NzgxMzM0MjAwMzIx.DsxlIQ.6KjOTAV1P-H4qx85v41QIeZlgY0}}",
+    "api": "{{tokenAPI}}",
+    "cleverbot": "{{tokenCleverbot}}",
+    "twitter": {
+      "consumer_key": "{{tokenTwitterConsumerKey}}",
+      "consumer_secret": "{{tokenTwitterConsumerSecret}}",
+      "access_token": "{{tokenTwitterAccessToken}}",
+      "access_token_secret": "{{tokenTwitterAccessTokenSecret}}"
+    }
+  }
+}
